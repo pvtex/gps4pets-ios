@@ -1,15 +1,15 @@
-# [Traccar Manager for iOS](https://www.traccar.org/manager)
+# [GPS4PETS for iOS](https://www.gps4pets.de)
 
-[![Download on the App Store](http://www.tananaev.com/badges/app-store.svg)](https://itunes.apple.com/app/traccar-manager/id1113966562)
 
 ## Overview
 
-Traccar Manager is a mobile application to manage GPS tracking devices. It requires a Traccar server instance to work.
+GPS4PETS is a mobile application to manage GPS tracking devices. It requires an abo with GPS4PETS.de to work.
 
 ## Team
 
 - Anton Tananaev ([anton@traccar.org](mailto:anton@traccar.org))
 - William Pearse ([w.pearse@gmail.com](mailto:w.pearse@gmail.com))
+- GPS4PETS ([info@gps4pets.de](mailto:info@gps4pets.de))
 
 ## License
 
