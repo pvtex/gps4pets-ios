@@ -1,6 +1,8 @@
 # GPS4PETS for iOS
 based on [Traccar Manager for Android](https://www.traccar.org/manager)
 
+# moved to [GPS4PETS REPO](https://github.com/GPS4PETS/iOS-App)
+
 ## Overview
 
 GPS4PETS is a mobile application to manage GPS tracking devices. It requires an abo with GPS4PETS.de to work.
